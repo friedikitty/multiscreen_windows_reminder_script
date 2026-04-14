@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "%~dp0remine_me.ps1" -Message "Prepare for launch, Amigo"  -DurationSeconds 3
